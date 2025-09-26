@@ -91,6 +91,10 @@
     margin: 0;
     color: #838383;
 }
+.header__link {
+  color: #2f80ed;
+  text-decoration: none;
+}
 
 /* Staff section styles */
 .staff {
